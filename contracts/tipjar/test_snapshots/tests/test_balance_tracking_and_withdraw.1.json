@@ -2157,18 +2157,6 @@
                         "key": {
                           "vec": [
                             {
-                              "symbol": "TipCounter"
-                            }
-                          ]
-                        },
-                        "val": {
-                          "u64": 2
-                        }
-                      },
-                      {
-                        "key": {
-                          "vec": [
-                            {
                               "symbol": "TokenWhitelist"
                             },
                             {
